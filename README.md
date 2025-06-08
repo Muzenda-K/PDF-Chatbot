@@ -1,6 +1,6 @@
 # PDF Chatbot with LLaMA
 
-![Python](https://img.shields.io/badge/python-3.9%2520%257C%25203.10%2520%257C%25203.11-blue)
+![Python](https://img.shields.io/badge/python-3.12%20|%203.10%20|%203.11-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-FF4B4B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7.0-EE4C2C)
@@ -61,18 +61,6 @@ streamlit run app.py
 ## Project demo
 
 ![Demo](demo.gif)
-
-## Project structure
-
-pdf-chatbot/
-├── app.py # Main Streamlit application
-├── pdf_utils.py # PDF text extraction utilities
-├── vector_store.py # Vector store implementation
-├── tiny_llama.py # LLM interaction module
-├── requirements.txt # Python dependencies
-├── sample.pdf # Sample PDF document
-├── LICENSE # Project license
-└── README.md # This file
 
 ## Contributing
 
