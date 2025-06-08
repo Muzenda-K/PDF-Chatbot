@@ -1,6 +1,6 @@
 # PDF Chatbot with LLaMA
 
-![Python](https://img.shields.io/badge/python-3.12%20|%203.10%20|%203.11-blue?style=for-the-badge)
+![Python 3.12](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-FF4B4B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7.0-EE4C2C)
